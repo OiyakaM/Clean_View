@@ -1,21 +1,5 @@
 {
-  "name": "MirageShield Detector",
-  "short_name": "MirageShield",
-  "description": "An image detection app by MirageShield",
-  "icons": [
-    {
-      "src": "Designer (1).png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "Designer (1).png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ff66b2"
-}
+  "name": "Clean View Detector",
+  "short_name": "Clean View",
+  "description": "An image detection app by Clean View",
+  "icons": 
