@@ -19,3 +19,16 @@ How to Use:
 Upload Image: Simply upload an image to Clean View using the provided interface. View Detection Results: Clean View will analyze the image in real-time and display detection results, indicating whether the content is safe or potentially NSFW. Adjust Filtering Settings: Users can customize filtering thresholds and sensitivity levels to refine the filtering process according to their preferences. Enjoy Secure Browsing: With Clean View, users can browse and view images with confidence, knowing that potentially inappropriate content is being actively filtered and flagged. Why Clean View?
 
 Advanced Technology: Clean View employs cutting-edge machine learning algorithms for accurate and reliable image content filtering. Customizable Filters: Users have the flexibility to tailor filtering thresholds to suit their individual preferences. Offline Capabilities: As a PWA, Clean View ensures uninterrupted access to image filtering capabilities, even in offline environments. User-Friendly Experience: With its intuitive interface and seamless functionality, Clean View offers a hassle-free experience for users seeking enhanced image content protection. GitHub Repository: https://github.com/OiyakaM/Clean_View.git
+
+Upload Image: Simply upload an image to Clean View using the provided interface.
+View Detection Results: Clean View will analyze the image in real-time and display detection results, indicating whether the content is safe or potentially NSFW.
+Adjust Filtering Settings: Users can customize filtering thresholds and sensitivity levels to refine the filtering process according to their preferences.
+Enjoy Secure Browsing: With Clean View, users can browse and view images with confidence, knowing that potentially inappropriate content is being actively filtered and flagged.
+Why Clean View?
+
+Advanced Technology: Clean View employs cutting-edge machine learning algorithms for accurate and reliable image content filtering.
+Customizable Filters: Users have the flexibility to tailor filtering thresholds to suit their individual preferences.
+Offline Capabilities: As a PWA, Clean View ensures uninterrupted access to image filtering capabilities, even in offline environments.
+User-Friendly Experience: With its intuitive interface and seamless functionality, Clean View offers a hassle-free experience for users seeking enhanced image content protection.
+GitHub Repository: https://github.com/OiyakaM/Clean_View.git
+
