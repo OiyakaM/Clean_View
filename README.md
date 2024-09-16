@@ -26,5 +26,5 @@ Advanced Technology: Clean View employs cutting-edge machine learning algorithms
 Customizable Filters: Users have the flexibility to tailor filtering thresholds to suit their individual preferences.
 Offline Capabilities: As a PWA, Clean View ensures uninterrupted access to image filtering capabilities, even in offline environments.
 User-Friendly Experience: With its intuitive interface and seamless functionality, Clean View offers a hassle-free experience for users seeking enhanced image content protection.
-GitHub Repository: 
+GitHub Repository: https://github.com/OiyakaM/Clean_View.git
 
