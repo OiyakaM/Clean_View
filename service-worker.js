@@ -2,7 +2,7 @@
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
-    caches.open('mirage-shield-v1').then(function(cache) {
+    caches.open('clean-view-v1').then(function(cache) {
       return cache.addAll([
         '/',
         '/index.html',
